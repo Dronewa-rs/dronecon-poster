@@ -1,6 +1,8 @@
 # better_poster_latex
 #betterposter
-![Output of compiled .tex](https://raw.githubusercontent.com/dronewa-rs/dronecon-poster/main/main.pdf)
+![Converted PNG version of output PDF from .tex](https://raw.githubusercontent.com/dronewa-rs/dronecon-poster/main/dronecon-poster-v2.png)
+
+Original poster template creator's description below.
 
 //
 
