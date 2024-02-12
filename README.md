@@ -1,7 +1,8 @@
 # better_poster_latex
 #betterposter
-![Example Image of poster](main.pdf?raw=true "Better Poster: Portrait")
+![Output of compiled .tex](https://raw.githubusercontent.com/dronewa-rs/dronecon-poster/main/main.pdf)
 
+//
 
 The Latex version of Mike Morrison's "better poster" template.
 Only portrait version for now.
