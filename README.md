@@ -1,6 +1,6 @@
 # better_poster_latex
 #betterposter
-![Example Image of poster](better_poster.png?raw=true "Better Poster: Portrait")
+![Example Image of poster](main.pdf?raw=true "Better Poster: Portrait")
 
 
 The Latex version of Mike Morrison's "better poster" template.
