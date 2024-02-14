@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  12 FEB 2024 11:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  14 FEB 2024 15:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -956,93 +956,93 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 25.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 90.
+(Font)              <14.4> on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 90.
+(hyperref)                removing `math shift' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 90.
+(hyperref)                removing `\@@underline' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 90.
+(hyperref)                removing `\hbox' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 90.
+(hyperref)                removing `\mathsurround' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 90.
+(hyperref)                removing `\z@' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 90.
+(hyperref)                removing `math shift' on input line 89.
 
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-90.
+89.
 (c:/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 90.
+(hyperref)                removing `math shift' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 90.
+(hyperref)                removing `\@@underline' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 90.
+(hyperref)                removing `\hbox' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 90.
+(hyperref)                removing `\mathsurround' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 90.
+(hyperref)                removing `\z@' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 90.
+(hyperref)                removing `math shift' on input line 89.
 
 <./images/icons8-ecg-96.png.png, id=19, 737.75626pt x 726.715pt>
 File: ./images/icons8-ecg-96.png.png Graphic file (type png)
 <use ./images/icons8-ecg-96.png.png>
-Package pdftex.def Info: ./images/icons8-ecg-96.png.png  used on input line 90.
+Package pdftex.def Info: ./images/icons8-ecg-96.png.png  used on input line 89.
 
 (pdftex.def)             Requested size: 170.69412pt x 168.13892pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 90.
+(hyperref)                removing `math shift' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@@underline' on input line 90.
+(hyperref)                removing `\@@underline' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hbox' on input line 90.
+(hyperref)                removing `\hbox' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 90.
+(hyperref)                removing `\mathsurround' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 90.
+(hyperref)                removing `\z@' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 90.
+(hyperref)                removing `math shift' on input line 89.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 
  []
 
@@ -1053,7 +1053,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.90 }
+l.89 }
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1062,91 +1062,91 @@ or  <return>  to continue without it.
 <./images/thumb-Uk.png, id=21, 739.76375pt x 723.70375pt>
 File: ./images/thumb-Uk.png Graphic file (type png)
 <use ./images/thumb-Uk.png>
-Package pdftex.def Info: ./images/thumb-Uk.png  used on input line 90.
+Package pdftex.def Info: ./images/thumb-Uk.png  used on input line 89.
 (pdftex.def)             Requested size: 87.41734pt x 85.51556pt.
 <./images/uni_logo-3.png, id=22, 735.74875pt x 725.71124pt>
 File: ./images/uni_logo-3.png Graphic file (type png)
 <use ./images/uni_logo-3.png>
-Package pdftex.def Info: ./images/uni_logo-3.png  used on input line 104.
+Package pdftex.def Info: ./images/uni_logo-3.png  used on input line 103.
 (pdftex.def)             Requested size: 81.09117pt x 79.9835pt.
 <./images/thumb-junk.png, id=23, 60.225pt x 60.225pt>
 File: ./images/thumb-junk.png Graphic file (type png)
 <use ./images/thumb-junk.png>
-Package pdftex.def Info: ./images/thumb-junk.png  used on input line 104.
+Package pdftex.def Info: ./images/thumb-junk.png  used on input line 103.
 (pdftex.def)             Requested size: 81.09117pt x 81.09897pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
 
  []
 
 <./images/thumb-nam-2.png, id=24, 734.745pt x 725.71124pt>
 File: ./images/thumb-nam-2.png Graphic file (type png)
 <use ./images/thumb-nam-2.png>
-Package pdftex.def Info: ./images/thumb-nam-2.png  used on input line 104.
+Package pdftex.def Info: ./images/thumb-nam-2.png  used on input line 103.
 (pdftex.def)             Requested size: 81.09117pt x 80.09424pt.
 <./images/thumb-nam.png, id=25, 737.75626pt x 723.70375pt>
 File: ./images/thumb-nam.png Graphic file (type png)
 <use ./images/thumb-nam.png>
-Package pdftex.def Info: ./images/thumb-nam.png  used on input line 104.
+Package pdftex.def Info: ./images/thumb-nam.png  used on input line 103.
 (pdftex.def)             Requested size: 81.09117pt x 79.5414pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
 
  []
 
 <./images/thumb-deco.png, id=26, 737.75626pt x 726.715pt>
 File: ./images/thumb-deco.png Graphic file (type png)
 <use ./images/thumb-deco.png>
-Package pdftex.def Info: ./images/thumb-deco.png  used on input line 104.
+Package pdftex.def Info: ./images/thumb-deco.png  used on input line 103.
 (pdftex.def)             Requested size: 81.09117pt x 79.87236pt.
 <./images/thumb-mud.png, id=27, 737.75626pt x 723.70375pt>
 File: ./images/thumb-mud.png Graphic file (type png)
 <use ./images/thumb-mud.png>
-Package pdftex.def Info: ./images/thumb-mud.png  used on input line 104.
+Package pdftex.def Info: ./images/thumb-mud.png  used on input line 103.
 (pdftex.def)             Requested size: 81.09117pt x 79.5414pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
 
  []
 
 <./images/thumb-mud-2.png, id=28, 737.75626pt x 726.715pt>
 File: ./images/thumb-mud-2.png Graphic file (type png)
 <use ./images/thumb-mud-2.png>
-Package pdftex.def Info: ./images/thumb-mud-2.png  used on input line 104.
+Package pdftex.def Info: ./images/thumb-mud-2.png  used on input line 103.
 (pdftex.def)             Requested size: 81.09117pt x 79.87236pt.
 <./images/thumb-uni.png, id=29, 738.76pt x 725.71124pt>
 File: ./images/thumb-uni.png Graphic file (type png)
 <use ./images/thumb-uni.png>
-Package pdftex.def Info: ./images/thumb-uni.png  used on input line 104.
+Package pdftex.def Info: ./images/thumb-uni.png  used on input line 103.
 (pdftex.def)             Requested size: 81.09117pt x 79.6513pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
 
  []
 
 <images/qr-code.png, id=30, 2265.46375pt x 2265.46375pt>
 File: images/qr-code.png Graphic file (type png)
 <use images/qr-code.png>
-Package pdftex.def Info: images/qr-code.png  used on input line 110.
+Package pdftex.def Info: images/qr-code.png  used on input line 109.
 (pdftex.def)             Requested size: 92.95375pt x 92.95566pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <20.74> on input line 110.
+(Font)              <20.74> on input line 109.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 110.
+(Font)              <12> on input line 109.
 
-Underfull \hbox (badness 1337) in paragraph at lines 110--110
+Underfull \hbox (badness 1337) in paragraph at lines 109--109
 [][] $\OMS/lmsy/m/n/20.74  $ \T1/lmss/m/n/20.74 See more at
  []
 
 
-Overfull \hbox (71.91924pt too wide) in paragraph at lines 110--110
+Overfull \hbox (71.91924pt too wide) in paragraph at lines 109--109
 \T1/lmss/m/n/20.74 ..https://dronewa.rs/interest
  []
 
 <images/uni_logo.png, id=31, 505.89pt x 496.85625pt>
 File: images/uni_logo.png Graphic file (type png)
 <use images/uni_logo.png>
-Package pdftex.def Info: images/uni_logo.png  used on input line 110.
+Package pdftex.def Info: images/uni_logo.png  used on input line 109.
 (pdftex.def)             Requested size: 94.6457pt x 92.95566pt.
 [2
 
@@ -1173,7 +1173,7 @@ Here is how much of TeX's memory you used:
 /texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2023/texmf-dist/fonts/
 type1/public/lm/lmssbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/
 lmsy10.pfb>
-Output written on main.pdf (1 page, 11883820 bytes).
+Output written on main.pdf (1 page, 11883812 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
